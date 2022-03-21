@@ -1,5 +1,5 @@
 ### *mateo ismael orlando 4°1° avionica*
-### **alumno de *I.M.P.A.* **
+### __alumno de *I.M.P.A.*__
 ### *english teacher*
 <!--
 **chispitamaquinola07/chispitamaquinola07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
